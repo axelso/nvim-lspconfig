@@ -3,7 +3,7 @@
 PJ_ROOT=$(pwd)
 
 if [ ! -d ./neovim ]; then
-  git clone --depth 1 https://github.com/neovim/neovim
+  git clone --depth 1 https://github.com/axelso/neovim
 fi
 
 cd ./neovim
