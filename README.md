@@ -1,3 +1,5 @@
+Forked from [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) to play a little bit with the repo
+
 # nvim-lspconfig
 A collection of common configurations for Neovim's built-in [language server client](https://neovim.io/doc/user/lsp.html).
 
